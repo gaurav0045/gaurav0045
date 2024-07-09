@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gaurav0045
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python dhango.  
+- 🌱 I’m Web Developer, having skills in HTML, CSS, JavaScript, Bootstrap, jQuery and React.
 - 💞️ I’m looking to collaborate on some projects.
-- 📫 How to reach me via my instagram that is _imgauravsingh
+- 📫 You can reach me via my git profile.
 
 <!---
 gaurav0045/gaurav0045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
